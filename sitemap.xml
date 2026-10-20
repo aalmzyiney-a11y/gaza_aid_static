@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/privacy-policy.html</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/disclaimer.html</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/terms.html</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/about.html</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/contact.html</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/wfp-gaza-food-assistance-registration.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/unicef-gaza-multi-purpose-cash-assistance.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/unrwa-gaza-flour-and-food-parcel-check.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/mosd-palestine-gaza-social-aid-registration.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/nrc-gaza-shelter-and-cash-support.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/oxfam-gaza-food-hygiene-vouchers.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/save-the-children-gaza-nutrition-cash.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/icrc-gaza-family-links-and-injured-support.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/who-moh-gaza-medical-evacuation-and-chronic-meds.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/gaza-housing-damage-assessment-registration.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/undp-gaza-emergency-employment-cash-for-work.html</loc><priority>0.9</priority></url>
+  <url><loc>https://YOUR-DOMAIN.com/initiatives/anera-wck-gaza-community-kitchens-and-meals.html</loc><priority>0.9</priority></url>
+</urlset>
